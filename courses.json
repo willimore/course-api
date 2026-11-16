@@ -1,0 +1,307 @@
+[
+  [
+    {
+      "id": "ET483",
+      "courseCode": "E T 483",
+      "title": "Mobile App Programming",
+      "credits": 3,
+      "instructor": "Prof. Masadeh",
+      "prerequisite": "E T 382 (Advanced Software Systems)",
+      "tags": [
+        "Kotlin",
+        "Compose",
+        "Android"
+      ],
+      "description": "Build modern Android apps with Kotlin and Jetpack Compose.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "ET362",
+      "courseCode": "E T 362",
+      "title": "Microcomputer Architecture",
+      "credits": 4,
+      "instructor": "Dr. Ramirez",
+      "prerequisite": "E T 182 (Digital Logic & Circuits)",
+      "tags": [
+        "Assembly",
+        "Hardware",
+        "Embedded"
+      ],
+      "description": "Study how microprocessors, memory, and I/O work together.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "ET101",
+      "courseCode": "E T 101",
+      "title": "Intro to Engineering Technology",
+      "credits": 2,
+      "instructor": "Prof. Chen",
+      "prerequisite": null,
+      "tags": [
+        "Design",
+        "Teamwork"
+      ],
+      "description": "An introduction to engineering design and teamwork.",
+      "instructorImageUrl": null
+    },
+    {
+      "id": "ET420",
+      "courseCode": "E T 420",
+      "title": "Cloud Computing",
+      "credits": 3,
+      "instructor": "Prof. Johnson",
+      "prerequisite": "E T 310 (Networking Fundamentals)",
+      "tags": [
+        "AWS",
+        "Cloud",
+        "DevOps"
+      ],
+      "description": "Design and deploy applications on cloud platforms.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=33"
+    }
+  ],
+  [
+    {
+      "id": "ET483",
+      "courseCode": "E T 483",
+      "title": "Mobile App Programming",
+      "credits": 3,
+      "instructor": "Prof. Masadeh",
+      "prerequisite": "E T 382 (Advanced Software Systems)",
+      "tags": [
+        "Kotlin",
+        "Compose",
+        "Android"
+      ],
+      "description": "Build modern Android apps with Kotlin and Jetpack Compose.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "ET362",
+      "courseCode": "E T 362",
+      "title": "Microcomputer Architecture",
+      "credits": 4,
+      "instructor": "Dr. Ramirez",
+      "prerequisite": "E T 182 (Digital Logic & Circuits)",
+      "tags": [
+        "Assembly",
+        "Hardware",
+        "Embedded"
+      ],
+      "description": "Study how microprocessors, memory, and I/O work together.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "ET101",
+      "courseCode": "E T 101",
+      "title": "Intro to Engineering Technology",
+      "credits": 2,
+      "instructor": "Prof. Chen",
+      "prerequisite": null,
+      "tags": [
+        "Design",
+        "Teamwork"
+      ],
+      "description": "An introduction to engineering design and teamwork.",
+      "instructorImageUrl": null
+    },
+    {
+      "id": "ET420",
+      "courseCode": "E T 420",
+      "title": "Cloud Computing",
+      "credits": 3,
+      "instructor": "Prof. Johnson",
+      "prerequisite": "E T 310 (Networking Fundamentals)",
+      "tags": [
+        "AWS",
+        "Cloud",
+        "DevOps"
+      ],
+      "description": "Design and deploy applications on cloud platforms.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=33"
+    }
+  ],
+  [
+    {
+      "id": "ET483",
+      "courseCode": "E T 483",
+      "title": "Mobile App Programming",
+      "credits": 3,
+      "instructor": "Prof. Masadeh",
+      "prerequisite": "E T 382 (Advanced Software Systems)",
+      "tags": [
+        "Kotlin",
+        "Compose",
+        "Android"
+      ],
+      "description": "Build modern Android apps with Kotlin and Jetpack Compose.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "ET362",
+      "courseCode": "E T 362",
+      "title": "Microcomputer Architecture",
+      "credits": 4,
+      "instructor": "Dr. Ramirez",
+      "prerequisite": "E T 182 (Digital Logic & Circuits)",
+      "tags": [
+        "Assembly",
+        "Hardware",
+        "Embedded"
+      ],
+      "description": "Study how microprocessors, memory, and I/O work together.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "ET101",
+      "courseCode": "E T 101",
+      "title": "Intro to Engineering Technology",
+      "credits": 2,
+      "instructor": "Prof. Chen",
+      "prerequisite": null,
+      "tags": [
+        "Design",
+        "Teamwork"
+      ],
+      "description": "An introduction to engineering design and teamwork.",
+      "instructorImageUrl": null
+    },
+    {
+      "id": "ET420",
+      "courseCode": "E T 420",
+      "title": "Cloud Computing",
+      "credits": 3,
+      "instructor": "Prof. Johnson",
+      "prerequisite": "E T 310 (Networking Fundamentals)",
+      "tags": [
+        "AWS",
+        "Cloud",
+        "DevOps"
+      ],
+      "description": "Design and deploy applications on cloud platforms.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=33"
+    }
+  ],
+  [
+    {
+      "id": "ET483",
+      "courseCode": "E T 483",
+      "title": "Mobile App Programming",
+      "credits": 3,
+      "instructor": "Prof. Masadeh",
+      "prerequisite": "E T 382 (Advanced Software Systems)",
+      "tags": [
+        "Kotlin",
+        "Compose",
+        "Android"
+      ],
+      "description": "Build modern Android apps with Kotlin and Jetpack Compose.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "ET362",
+      "courseCode": "E T 362",
+      "title": "Microcomputer Architecture",
+      "credits": 4,
+      "instructor": "Dr. Ramirez",
+      "prerequisite": "E T 182 (Digital Logic & Circuits)",
+      "tags": [
+        "Assembly",
+        "Hardware",
+        "Embedded"
+      ],
+      "description": "Study how microprocessors, memory, and I/O work together.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "ET101",
+      "courseCode": "E T 101",
+      "title": "Intro to Engineering Technology",
+      "credits": 2,
+      "instructor": "Prof. Chen",
+      "prerequisite": null,
+      "tags": [
+        "Design",
+        "Teamwork"
+      ],
+      "description": "An introduction to engineering design and teamwork.",
+      "instructorImageUrl": null
+    },
+    {
+      "id": "ET420",
+      "courseCode": "E T 420",
+      "title": "Cloud Computing",
+      "credits": 3,
+      "instructor": "Prof. Johnson",
+      "prerequisite": "E T 310 (Networking Fundamentals)",
+      "tags": [
+        "AWS",
+        "Cloud",
+        "DevOps"
+      ],
+      "description": "Design and deploy applications on cloud platforms.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=33"
+    }
+  ],
+  [
+    {
+      "id": "ET483",
+      "courseCode": "E T 483",
+      "title": "Mobile App Programming",
+      "credits": 3,
+      "instructor": "Prof. Masadeh",
+      "prerequisite": "E T 382 (Advanced Software Systems)",
+      "tags": [
+        "Kotlin",
+        "Compose",
+        "Android"
+      ],
+      "description": "Build modern Android apps with Kotlin and Jetpack Compose.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "ET362",
+      "courseCode": "E T 362",
+      "title": "Microcomputer Architecture",
+      "credits": 4,
+      "instructor": "Dr. Ramirez",
+      "prerequisite": "E T 182 (Digital Logic & Circuits)",
+      "tags": [
+        "Assembly",
+        "Hardware",
+        "Embedded"
+      ],
+      "description": "Study how microprocessors, memory, and I/O work together.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "ET101",
+      "courseCode": "E T 101",
+      "title": "Intro to Engineering Technology",
+      "credits": 2,
+      "instructor": "Prof. Chen",
+      "prerequisite": null,
+      "tags": [
+        "Design",
+        "Teamwork"
+      ],
+      "description": "An introduction to engineering design and teamwork.",
+      "instructorImageUrl": null
+    },
+    {
+      "id": "ET420",
+      "courseCode": "E T 420",
+      "title": "Cloud Computing",
+      "credits": 3,
+      "instructor": "Prof. Johnson",
+      "prerequisite": "E T 310 (Networking Fundamentals)",
+      "tags": [
+        "AWS",
+        "Cloud",
+        "DevOps"
+      ],
+      "description": "Design and deploy applications on cloud platforms.",
+      "instructorImageUrl": "https://i.pravatar.cc/150?img=33"
+    }
+  ]
+]
